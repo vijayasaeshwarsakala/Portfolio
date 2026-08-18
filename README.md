@@ -57,6 +57,7 @@ Portfolio/
 │   │   └── main.jsx
 │   └── package.json
 │
+├── vercel.json
 ├── DATA_GUIDE.md
 ├── USER_FILES_GUIDE.md
 └── README.md
