@@ -1,0 +1,305 @@
+{
+  "profile": {
+    "fullName": "SAKALA Vijaya Saeshwar",
+    "brandingName": "SAKALA",
+    "subtitleName": "Vijaya Saeshwar",
+    "heroLabel": "YOUR FRIENDLY NEIGHBORHOOD DEVELOPER",
+    "title": "AI & ML ENTHUSIAST",
+    "tagline": "Building intelligent systems & futuristic digital experiences",
+    "bio": "B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning at Pragati Engineering College. Passionate about exploring machine learning algorithms, modern web development, and innovative tech solutions.",
+    "college": "Pragati Engineering College",
+    "degree": "B.Tech",
+    "branch": "Computer Science Engineering",
+    "specialization": "Artificial Intelligence & Machine Learning",
+    "displayDegree": "B.Tech — CSE (AI & ML)",
+    "email": "vijayasaeshwarsakala@gmail.com",
+    "profilePhoto": "/user-data/profile-photo/profile.jpg",
+    "location": "Kakinada, Andhra Pradesh, India",
+    "status": "Open to AI/ML & Web Development Opportunities"
+  },
+  "education": [
+    {
+      "_id": "edu-01",
+      "id": "edu-01",
+      "institution": "Pragati Engineering College",
+      "degree": "B.Tech",
+      "branch": "Computer Science Engineering",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "displayTitle": "B.Tech — CSE (AI & ML)",
+      "description": "Specialized undergraduate program focusing on Artificial Intelligence, Machine Learning algorithms, Data Structures, Database Systems, and Modern Software Engineering.",
+      "isCurrent": true
+    }
+  ],
+  "certificates": [
+    {
+      "_id": "cert-01",
+      "id": "cert-01",
+      "title": "AI for Beginners",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "July 26, 2025",
+      "category": "AI & Machine Learning",
+      "description": "Foundational course on Artificial Intelligence principles, neural network concepts, and real-world AI applications.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/ai-for-beginners-1787036555887.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-02",
+      "id": "cert-02",
+      "title": "AI for Business Professionals",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "August 14, 2025",
+      "category": "AI & Machine Learning",
+      "description": "Strategic applications of Artificial Intelligence in business operations, automation, and decision-making.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/ai-for-business-professionals-1787036572647.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-03",
+      "id": "cert-03",
+      "title": "Data Science & Analytics",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "July 26, 2025",
+      "category": "Data Science",
+      "description": "Core analytics techniques, data processing pipelines, data visualization, and statistical modeling fundamentals.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/data-science---analytics-1787038551697.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-04",
+      "id": "cert-04",
+      "title": "Introduction to Cybersecurity Awareness",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "August 12, 2025",
+      "category": "Cybersecurity",
+      "description": "Essential threat awareness, network security hygiene, data protection protocols, and security best practices.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/introduction-to-cybersecurity-awareness-1787038570043.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-05",
+      "id": "cert-05",
+      "title": "Effective Leadership",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "September 5, 2025",
+      "category": "Professional Development",
+      "description": "Team management strategies, decision making under pressure, vision execution, and collaborative leadership.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/effective-leadership-1787038580822.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-06",
+      "id": "cert-06",
+      "title": "Business Email",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "September 6, 2025",
+      "category": "Communication",
+      "description": "Professional workplace communication, clear email etiquette, formal reporting, and business correspondence.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/business-email-1787038602168.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-07",
+      "id": "cert-07",
+      "title": "Social Media Marketing",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "September 7, 2025",
+      "category": "Digital Marketing",
+      "description": "Campaign design, audience targeting, performance analytics, and social engagement strategy.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/social-media-marketing-1787038626799.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-08",
+      "id": "cert-08",
+      "title": "Resume Writing and Job Interviewing",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "September 8, 2025",
+      "category": "Career Skills",
+      "description": "Professional resume structuring, personal branding, technical interview preparation, and communication.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/resume-writing-and-job-interviewing-1787040065399.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-09",
+      "id": "cert-09",
+      "title": "Success Mindset",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "September 9, 2025",
+      "category": "Personal Growth",
+      "description": "Goal alignment, continuous learning habits, resilience in problem solving, and growth mindset.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/success-mindset-1787038680976.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-10",
+      "id": "cert-10",
+      "title": "Customer Experience (CX) for Business Success",
+      "organization": "HP LIFE / HP Foundation",
+      "issueDate": "August 18, 2026",
+      "category": "Business Strategy",
+      "description": "User-centric design thinking, customer journey mapping, service quality, and feedback analysis.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/customer-experience.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-11",
+      "id": "cert-11",
+      "title": "Assessment for Opportunity of Predictive Modelling",
+      "organization": "Pragati Engineering College",
+      "issueDate": "Participation",
+      "category": "AI & Data Science",
+      "description": "Certificate of Participation for predictive modeling assessment and statistical analysis event.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/predictive-modelling.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-12",
+      "id": "cert-12",
+      "title": "CampusCrew: 100K Special Certificate — Google Gemini QuizOff 2026",
+      "organization": "CampusCrew",
+      "issueDate": "2026",
+      "category": "AI & Innovation",
+      "description": "Certificate of Participation in the national Google Gemini QuizOff 2026 AI knowledge competition.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/campuscrew-100k-special-certificate-participation-1787040044397.pdf",
+      "verified": true
+    },
+    {
+      "_id": "cert-13",
+      "id": "cert-13",
+      "title": "Google Gemini QuizOff 2026 Participant",
+      "organization": "CampusCrew",
+      "issueDate": "19-07-2026",
+      "category": " AI Competition",
+      "description": "Participated in the CampusCrew 100K Special Google Gemini QuizOff focused on Generative AI and LLM technologies.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/cf2b5705-9b9c-4d65-89c5-901935a2506b--1--1787039473388.png",
+      "verified": true
+    },
+    {
+      "_id": "cert-14",
+      "id": "cert-14",
+      "title": "Nasha Mukti Sankalp / Nasha Mukt Bharat Abhiyaan",
+      "organization": "Government Initiative",
+      "issueDate": "Pledge Certificate",
+      "category": "Social Responsibility",
+      "description": "Certificate of Pledge for the Nasha Mukt Bharat Abhiyaan social awareness campaign.",
+      "credentialUrl": "",
+      "filePath": "/user-data/certificates/certificate-1787038845387.jpg",
+      "verified": true
+    }
+  ],
+  "experience": [
+    {
+      "_id": "exp-01",
+      "id": "exp-01",
+      "company": "HoloGrad LLP",
+      "role": "Digital Marketing Intern",
+      "duration": "60 Working Days",
+      "offerDate": "18 June 2026",
+      "status": "INTERNSHIP / OFFER",
+      "type": "Internship",
+      "location": "Remote / On-site",
+      "responsibilities": [
+        "Executing targeted digital marketing & growth campaigns",
+        "Managing lead generation & structured lead nurturing pipelines",
+        "Handling strategic social media outreach & audience engagement",
+        "Analyzing campaign metrics, user reach, and brand conversion optimization",
+        "Enhancing brand visibility and supporting growth strategies"
+      ],
+      "verified": true,
+      "certificatePath": "/user-data/certificates/digital-marketing-internship-offer-letter---2026-06-18t135504-211--1--1787038031518.pdf"
+    }
+  ],
+  "achievements": [
+    {
+      "_id": "ach-01",
+      "id": "ach-01",
+      "title": "Google Gemini QuizOff 2026 Participant",
+      "organization": "CampusCrew",
+      "date": "2026",
+      "category": "AI Competition",
+      "description": "Participated in the CampusCrew 100K Special Google Gemini QuizOff focused on Generative AI and LLM technologies.",
+      "highlight": "100K Special Event"
+    },
+    {
+      "_id": "ach-02",
+      "id": "ach-02",
+      "title": "Start-up Pitch Presenter — Team Fictional Thinkers",
+      "organization": "Pragati Engineering College",
+      "date": "Academic Competition",
+      "category": "Entrepreneurship",
+      "description": "Pitched innovative technical start-up concepts alongside Team Fictional Thinkers at Pragati Engineering College.",
+      "highlight": "Team Fictional Thinkers",
+      "certificatePath": "/user-data/certificates/start-up-pitch-1787040152435.pdf"
+    },
+    {
+      "_id": "ach-03",
+      "id": "ach-03",
+      "title": "Predictive Modelling Assessment Participant",
+      "organization": "Pragati Engineering College",
+      "date": "Academic Workshop",
+      "category": "Data Science",
+      "description": "Demonstrated skills in statistical data evaluation and predictive modeling opportunities.",
+      "highlight": "Pragati Engineering College"
+    },
+    {
+      "_id": "ach-04",
+      "id": "ach-04",
+      "title": "HP LIFE Professional Learning Milestone",
+      "organization": "HP LIFE / HP Foundation",
+      "date": "2025 - 2026",
+      "category": "Certification",
+      "description": "Successfully completed 10 HP LIFE certification modules spanning AI, Data Science, Leadership, Cybersecurity, and Business strategy.",
+      "highlight": "10 Certified Modules"
+    },
+    {
+      "_id": "ach-05",
+      "id": "ach-05",
+      "title": "Nasha Mukti Sankalp Social Awareness Pledge",
+      "organization": "Nasha Mukt Bharat Abhiyaan",
+      "date": "Social Initiative",
+      "category": "Community Leadership",
+      "description": "Committed to community health and substance-free awareness as part of the Nasha Mukt Bharat Abhiyaan campaign.",
+      "highlight": "National Campaign Pledge"
+    }
+  ],
+  "projects": [],
+  "skills": [],
+  "socials": {
+    "email": "vijayasaeshwarsakala@gmail.com",
+    "githubUrl": "",
+    "linkedinUrl": "",
+    "instagramUrl": "",
+    "portfolioUrl": "https://sakala-portfolio.vercel.app"
+  },
+  "resume": null,
+  "contacts": [
+    {
+      "_id": "msg-1787037332177",
+      "id": "msg-1787037332177",
+      "createdAt": "2026-08-18T07:15:32.178Z",
+      "status": "unread",
+      "name": "effs",
+      "email": "amfhauyc@gmail.com",
+      "subject": "hello",
+      "message": "heyy broo"
+    }
+  ],
+  "admin": {
+    "username": "Saeshwar",
+    "password": "Saeshwar@2006",
+    "role": "admin"
+  }
+}

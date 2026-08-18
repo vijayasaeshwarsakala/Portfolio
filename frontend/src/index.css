@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #050505;
+    color: #F5F5F5;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Spider Web Glowing Accents & Custom Effects */
+.spider-glow-box {
+  box-shadow: 0 0 20px rgba(229, 9, 20, 0.25);
+  border: 1px solid rgba(229, 9, 20, 0.3);
+  transition: all 0.3s ease;
+}
+
+.spider-glow-box:hover {
+  box-shadow: 0 0 35px rgba(229, 9, 20, 0.5);
+  border-color: rgba(229, 9, 20, 0.6);
+}
+
+.spider-sense-active {
+  animation: sensePulse 1.2s infinite alternate ease-in-out;
+  position: relative;
+}
+
+.spider-sense-active .bg-spider-darkCard {
+  box-shadow: 0 0 25px rgba(229, 9, 20, 0.4) !important;
+  border-color: rgba(229, 9, 20, 0.7) !important;
+  transition: all 0.5s ease;
+}
+
+.spider-sense-active h1,
+.spider-sense-active h2,
+.spider-sense-active h3 {
+  text-shadow: 0 0 12px rgba(229, 9, 20, 0.6);
+}
+
+@keyframes sensePulse {
+  0% {
+    box-shadow: 0 0 15px rgba(229, 9, 20, 0.4), inset 0 0 15px rgba(229, 9, 20, 0.2);
+    border-color: rgba(229, 9, 20, 0.7);
+  }
+  100% {
+    box-shadow: 0 0 45px rgba(229, 9, 20, 0.9), inset 0 0 35px rgba(229, 9, 20, 0.5);
+    border-color: rgba(255, 30, 39, 1);
+  }
+}
+
+/* Custom Web Line Overlay */
+.web-overlay {
+  background-image: 
+    radial-gradient(circle at 50% 50%, rgba(229, 9, 20, 0.08) 0%, transparent 60%),
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+  background-size: 100% 100%, 60px 60px, 60px 60px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #22222E;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E50914;
+}
